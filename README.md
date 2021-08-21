@@ -6,10 +6,10 @@ A CMS app that allows you to look at a database of employees, departments and ro
 ![Screen Shot](./assets/employee-track.png)
 
 ## Table of Contents
-* [Video Walkthrough](#Video Walkthrough)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
+* [Video Walkthrough](#video)
 
 ## Video Walkthrough
 https://drive.google.com/file/d/1fHmgMrdCyTPob_60okiyESJfR2-UOByS/view
