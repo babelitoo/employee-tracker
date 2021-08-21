@@ -1,0 +1,16 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "Week 12 HW ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "author": "Gabriel Carrillo",
+    "license": "ISC",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "inquirer": "^7.0.0",
+        "mysql2": "^2.1.0"
+    }
+}
