@@ -12,7 +12,7 @@ A CMS app that allows you to look at a database of employees, departments and ro
 * [Video Walkthrough](#video)
 
 ## Video Walkthrough
-https://drive.google.com/file/d/1fHmgMrdCyTPob_60okiyESJfR2-UOByS/view
+https://drive.google.com/file/d/1fHmgMrdCyTPob_60okiyESJfR2-UOByS/view?usp=sharing
 
 ## Installation
 
