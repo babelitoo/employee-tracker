@@ -10,7 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "console.table": "^0.10.0",
-        "inquirer": "^7.0.0",
-        "mysql2": "^2.1.0"
+        "inquirer": "^7.3.3",
+        "mysql2": "^2.3.0"
     }
 }
