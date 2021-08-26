@@ -25,7 +25,7 @@ Npm i, node index.js in terminal
 Arrow keys let you go up and down to select. Questions will be prompted for you to type in the answer. Quit lets you exit application.
 
 ## Tech
-
+Sequelize, Dotenv, Mysql2, Express, Node, Insomnia to test api routes.
 
 ## License
 
