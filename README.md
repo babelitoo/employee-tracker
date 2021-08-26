@@ -1,7 +1,7 @@
 # Employee Tracker
 
 ## Description
-A CMS app that allows you to look at a database of employees, departments and roles. Lets you add new departments, roles, employees, or update an employees role using node, inquirer, mysql2, and console.table.
+A CMS app that allows you to look at a database of employees, departments and roles. Lets you add new departments, roles, employees, or update an employees.
 
 ![Screen Shot](./assets/employee-track.png)
 
