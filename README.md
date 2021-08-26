@@ -28,7 +28,7 @@ Arrow keys let you go up and down to select. Questions will be prompted for you 
 Sequelize, Dotenv, Mysql2, Express, Node, Insomnia to test api routes.
 
 ## License
-
+MIT
 Open
 
 ### Questions?
