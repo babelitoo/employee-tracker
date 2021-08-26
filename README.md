@@ -9,6 +9,7 @@ A CMS app that allows you to look at a database of employees, departments and ro
 * [Video Walkthrough](#video)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Technologies Used](#tech)
 * [License](#license)
 
 ## Video Walkthrough
@@ -19,10 +20,15 @@ https://drive.google.com/file/d/1fHmgMrdCyTPob_60okiyESJfR2-UOByS/view?usp=shari
 *Steps required to install this project and get the application running:*
 Npm i, node index.js in terminal
 
- ## Usage
+## Usage
 *Instructions for use:*
 Arrow keys let you go up and down to select. Questions will be prompted for you to type in the answer. Quit lets you exit application.
+
+## Tech
+
+
 ## License
+
 Open
 
 ### Questions?
